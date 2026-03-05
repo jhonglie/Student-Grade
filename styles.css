@@ -1,0 +1,36 @@
+body {
+    font-family: "Google Sans", sans-serif;
+   
+}
+
+header {
+    background-color: #d0d0d0;
+    padding: 10px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+tfoot {
+    font-weight: bold;
+    background-color: #8b8a8a;
+}
+footer {
+    font-weight:light;
+    font-style: italic;
+    font-size: 10px;
+    text-align: center;
+}
